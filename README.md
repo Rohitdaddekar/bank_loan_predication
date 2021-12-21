@@ -1,7 +1,8 @@
 # About - Bank_loan_predication
 A machine-learning model predicting the loan-eligibility of applicants based on the factors asked while filling a loan application.
 
-# Bank Loan Prediction System using Streamlitapp
+## Bank Loan Prediction System using Streamlitapp:
+##  Streamlitapp
 
 
 

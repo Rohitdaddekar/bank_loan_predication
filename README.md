@@ -19,3 +19,8 @@ The company wants to automate the loan eligibility process (real time) based on 
     Property Area - Urban / Semi Urban / Rural
     Dependants - Number of dependents
     Self Employment Status - Self employed (Y/N)
+    
+    ## Conclusion
+
+    As we have seen that, Logistic Regression Model is giving highest accuracy of 79.67 %, hence we will use Logistic Regression for predicion.
+   
